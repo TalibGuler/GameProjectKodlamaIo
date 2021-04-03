@@ -21,6 +21,7 @@ namespace GameProjectKodlamaIo
             IslemlerManager islemler = new IslemlerManager();
             islemler.Add(sistem);
             gameSell.OyunAl(gamer1);
+            
 
             //IManager systemManager = new SystemManager();
             //IManager campaignManager = new CampaignManager();
